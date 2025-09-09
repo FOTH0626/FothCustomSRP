@@ -1,0 +1,16 @@
+﻿.idea/
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+UserSettings/
+*.csproj
+*.meta
+*.mat
+*.sln
+*.asset
+Assets/TextMesh Pro
+Assets/DefaultVolumeProfile.asset
+Assets/UniversalRenderPipelineGlobalSettings.asset
+Temp/
