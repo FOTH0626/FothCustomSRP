@@ -10,6 +10,7 @@ UserSettings/
 *.mat
 *.sln
 *.asset
+FothCustomSRP.sln.DotSettings.user
 Assets/TextMesh Pro
 Assets/DefaultVolumeProfile.asset
 Assets/UniversalRenderPipelineGlobalSettings.asset

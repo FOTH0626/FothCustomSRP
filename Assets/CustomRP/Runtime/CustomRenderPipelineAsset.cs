@@ -8,4 +8,6 @@ public class CustomRenderPipelineAsset : RenderPipelineAsset
     {
         return new CustomRenderPipeline();
     }
+
+
 }

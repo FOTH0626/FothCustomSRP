@@ -13,6 +13,11 @@ public class CustomRenderPipeline : RenderPipeline
         
     }
     
+    public CustomRenderPipeline()
+    {
+        GraphicsSettings.useScriptableRenderPipelineBatching = true;
+    }
+    
     protected override void Render(ScriptableRenderContext context, List<Camera> cameras)
     {
         foreach (var eachCamera in cameras)
